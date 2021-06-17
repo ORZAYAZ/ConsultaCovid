@@ -36,10 +36,3 @@ cd ConsultaCovid/Fonte/
 gcc -o Main arvoreCovid.c main.c
 ./Main
 ```
-
-## Contribuições
-```
-TBA
-```
-## Exemplo de consulta
-
